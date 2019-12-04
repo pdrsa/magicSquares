@@ -4,7 +4,7 @@ The input for the program is a integer n: the size of the square side.
 
 The output is a Magic Square of side n.
 
-Also, the program will genreate a .txt file with the magic square.
+Also, the program will generate a .txt file with the magic square.
 
 A complete documentation can be found in the wiki page of the project.
 
