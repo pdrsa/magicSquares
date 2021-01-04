@@ -1,6 +1,6 @@
 # magicSquares (en)
 
-The input for the program is a integer n: the size of the square side.
+The input for the program is an integer n: the size of the square side.
 
 The output is a Magic Square of side n.
 
